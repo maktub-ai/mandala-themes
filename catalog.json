@@ -2,5 +2,20 @@
   "format": "mandala-catalog",
   "version": 1,
   "kind": "theme",
-  "items": []
+  "items": [
+    {
+      "id": "paper",
+      "name": "Community Paper",
+      "description": "A neutral light theme with a muted blue accent.",
+      "version": "1.0.0",
+      "publisher": "MaktubCN",
+      "minAppVersion": "0.1.1",
+      "package": {
+        "repository": "maktub-ai/mandala-themes",
+        "revision": "f50935dfab443bba589170f881fed8171bc04851",
+        "path": "packages/paper.mandala-theme.json",
+        "sha256": "5ade5709079145dce5406499db7fb8d183e31710cb7cc43108e4a74b926276ac"
+      }
+    }
+  ]
 }
