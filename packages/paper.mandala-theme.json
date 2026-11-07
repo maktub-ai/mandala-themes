@@ -1,0 +1,38 @@
+{
+  "format": "mandala-theme",
+  "version": 1,
+  "theme": {
+    "id": "community-paper",
+    "name": "Community Paper",
+    "variant": "light",
+    "colors": {
+      "bg": "#fcfcfc",
+      "surface": "#ffffff",
+      "text": "#232326",
+      "accent": "#45617d",
+      "success": "#247557",
+      "danger": "#b52d3b",
+      "keyword": "#6550a0",
+      "string": "#28634a",
+      "brand": "#45617d"
+    }
+  },
+  "appearance": {
+    "uiFont": "system",
+    "codeFont": "system",
+    "fontSize": 13,
+    "codeSize": 13,
+    "radius": 5,
+    "density": "compact",
+    "contrast": 50
+  },
+  "background": {
+    "image": "",
+    "scope": "chat",
+    "position": "center",
+    "size": "cover",
+    "zoom": 100,
+    "blur": 0,
+    "overlay": 75
+  }
+}
